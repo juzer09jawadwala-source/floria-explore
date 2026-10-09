@@ -39,3 +39,10 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# root loose image files
+/*.png
+/*.jpg
+/*.jpeg
+public/3D-model/*+*
+
