@@ -46,3 +46,6 @@ next-env.d.ts
 /*.jpeg
 public/3D-model/*+*
 
+
+.vercel
+.env*
